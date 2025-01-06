@@ -15,4 +15,14 @@ let user2 = {
     bio: "안녕하세요",
     location: "경기",
 };
+let countryCodes = {
+    Korea: "ko",
+    USA: "us",
+    China: "cn",
+};
+let countryNumberCodes = {
+    Korea: 410,
+    USA: 840,
+    China: 156,
+};
 export {};
