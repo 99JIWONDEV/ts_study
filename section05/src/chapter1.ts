@@ -13,7 +13,6 @@ const dog : Dog = {
   name: "",
   color: "",
   isBark: true
-
 }
 
 interface Cat extends Animal {
